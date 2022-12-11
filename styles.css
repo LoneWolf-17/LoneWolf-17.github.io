@@ -14,7 +14,7 @@
     width:20px;
     border-radius:50%;
     position:absolute;
-    top:190px;
+    top:230px;
     left:0;
     z-index:1000;
 }
@@ -39,7 +39,7 @@
     background-color:white;
     position:relative;
     left:500px;
-    top:-500px;
+    top:-300px;
 }
 .holec{
     animation:hole 2s linear infinite;
