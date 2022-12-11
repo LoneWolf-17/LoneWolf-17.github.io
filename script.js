@@ -41,6 +41,7 @@ var interval=setInterval(function(){
         alert("You Lose!!");
         block.style.animation="stop";
         hole.style.animation="stop";
+        ball.style.top="240px";
         clearInterval(interval);
     }
 },16);
